@@ -28,7 +28,7 @@ em strong {
 }
 
 .itens {
-	font-style: italic
+	font-style: italic;
 }
 
 .beneficios {
@@ -47,3 +47,7 @@ ul {
 	width: 50%;
 }
 
+.logo {
+	background-color: red;
+	width: 20%;
+}

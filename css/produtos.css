@@ -1,0 +1,9 @@
+main {
+    background-image: linear-gradient(#BBBBBB, white);
+}
+
+.linha {
+    border:1px solid black ;
+    margin: 0;
+    
+}
